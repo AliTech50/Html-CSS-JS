@@ -1,0 +1,23 @@
+
+body {
+  background: #111111;
+}
+
+a{
+  font-size: xx-large;
+  font-style: unset;
+  color:green;
+}
+
+h1{
+  font-style: italic;
+  color:tomato;
+  font-size: xx-large;
+}
+
+.medical {
+  background-color:darkblue;
+  color:tomato;
+  padding: 20px;
+  text-align: center;
+}
